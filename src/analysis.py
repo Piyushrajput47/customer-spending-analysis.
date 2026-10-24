@@ -1,17 +1,3 @@
-"""Core functions for the sales data analysis project.
-
-Typical use (from the project root, e.g. inside the notebook):
-
-    from src.analysis import load_data, clean_data, spend, summary
-
-    df = clean_data(load_data())
-    spend(df, "Gender")
-    summary(df)
-
-Run it as a script to print the summary table:
-
-    python src/analysis.py
-"""
 
 from pathlib import Path
 
