@@ -80,32 +80,7 @@ sales-data-analysis/
 └── README.md
 ```
 
-## How to Run
 
-```bash
-git clone https://github.com/<your-username>/sales-data-analysis.git
-cd sales-data-analysis
-pip install -r requirements.txt
-jupyter notebook sales_analysis.ipynb
-```
-
-Run the notebook from the project root so `from src.analysis import ...` works. You can also print the summary table without Jupyter:
-
-```bash
-python src/analysis.py
-```
-
-Using the module in your own code:
-
-```python
-from src.analysis import load_data, clean_data, spend, summary
-
-df = clean_data(load_data())
-spend(df, "State")
-summary(df)
-```
-
-The CSV is read with `encoding='cp1252'`; keep that when loading the file.
 
 ## Possible Next Steps
 
