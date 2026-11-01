@@ -90,4 +90,4 @@ sales-data-analysis/
 
 ## Author
 
-**Piyush Rajput** · [LinkedIn](www.linkedin.com/in/piyush-kushwah-5a7614259) · [GitHub](https://github.com/your-username)
+**Piyush Rajput** · [LinkedIn](www.linkedin.com/in/piyush-kushwah-5a7614259) · [GitHub](https://github.com/Piyushrajput47)
